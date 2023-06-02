@@ -54,3 +54,6 @@ In this project, you can see my projects,  life story , github page and contacts
          
 <a href="https://github.com/cankarademir/My-Biography-App/blob/main/images/8.png" target="_blank">
 <img src="https://github.com/cankarademir/My-Biography-App/blob/main/images/8.png" width="200" style="max-width:100%;"></a>
+  
+  <p>
+-> The application was made for the purpose of the Turkcell GyGy bootcamp homework. <-
